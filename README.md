@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 ### Preview
-&emsp; This application is a Rock Paper Scissors game written in C++. I created this project as a fun addition to my coding portfolio. Everyone remembers playing Rock Paper Scissors as a fun game growing up. This program brings this childhood game to your computer so you can play it alone against a computer or with friends! Attached to this repository is a .exe file that allows you to play the game upon opening along with its source code.
+&emsp; This application is a Rock Paper Scissors game written in C++. I created this project as a fun addition to my coding portfolio. Everyone remembers playing Rock Paper Scissors as a fun game growing up. This program brings this childhood game to your computer so you can play it alone against a computer or with friends! Attached to this repository is the source code for this game. You can download it and run it with any C++ compiler and you will be able to play the game in your terminal.
 
 ### Key Features
 * Multiple game modes for playing alone or with friends
